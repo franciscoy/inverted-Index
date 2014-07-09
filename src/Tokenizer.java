@@ -47,6 +47,6 @@ class Tokenizer {
 
     public static void main(String[] args) {
         Tokenizer t = new Tokenizer();
-        ArrayList<String> list = t.tokenizeDocument("Hola all, been both perro gordo y feo");
+        ArrayList<String> list = t.tokenizeDocument("Test Tokens Hello world");
     }
 }
